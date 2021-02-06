@@ -1,5 +1,5 @@
 # Our_project
 ### Libraries used
-> hello
-> what 
-> ok
+* hello
+* what 
+* ok
